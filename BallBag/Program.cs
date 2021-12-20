@@ -77,5 +77,7 @@ namespace BallBag
             return newThrows;
         }
 
+        public void PrintConfigurations(List<List<int>> x)
+        { }
     }
 }
