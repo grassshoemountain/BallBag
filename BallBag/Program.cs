@@ -53,6 +53,7 @@ namespace BallBag
                     Console.Write("\n");
                     c++;
                 }
+
             }
 
             Console.ReadKey();
